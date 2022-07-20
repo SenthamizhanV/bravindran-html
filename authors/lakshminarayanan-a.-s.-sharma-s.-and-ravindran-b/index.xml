@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lakshminarayanan, A. S., Sharma, S., and **Ravindran, B.** on Balaraman Ravindran</title>
+    <link>/authors/lakshminarayanan-a.-s.-sharma-s.-and-ravindran-b./</link>
+    <description>Recent content in Lakshminarayanan, A. S., Sharma, S., and **Ravindran, B.** on Balaraman Ravindran</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    
+	    <atom:link href="/authors/lakshminarayanan-a.-s.-sharma-s.-and-ravindran-b./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dynamic Action Repetition For Deep Reinforcement Learning</title>
+      <link>/publication/dynamic-action-repetition-for-deep-reinforcement-learning/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dynamic-action-repetition-for-deep-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Frame skip Deep Q Network</title>
+      <link>/unpublished-manuscripts/dynamic-frame-skip-deep-q-network/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/unpublished-manuscripts/dynamic-frame-skip-deep-q-network/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

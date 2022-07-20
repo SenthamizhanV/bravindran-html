@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prasanna, P., Chandar, S., and **Ravindran, B.** on Balaraman Ravindran</title>
+    <link>/authors/prasanna-p.-chandar-s.-and-ravindran-b./</link>
+    <description>Recent content in Prasanna, P., Chandar, S., and **Ravindran, B.** on Balaraman Ravindran</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    
+	    <atom:link href="/authors/prasanna-p.-chandar-s.-and-ravindran-b./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thompson Sampling with Adaptive Exploration Bonus for Near-Optimal Policy Learning</title>
+      <link>/unpublished-manuscripts/thompson-sampling-with-adaptive-exploration-bonus-for-near-optimal-policy-learning/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/unpublished-manuscripts/thompson-sampling-with-adaptive-exploration-bonus-for-near-optimal-policy-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TSEB: More Efficient Thompson Sampling for Policy Learning</title>
+      <link>/unpublished-manuscripts/tseb_-more-efficient-thompson-sampling-for-policy-learning/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/unpublished-manuscripts/tseb_-more-efficient-thompson-sampling-for-policy-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

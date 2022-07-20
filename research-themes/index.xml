@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Themes on Balaraman Ravindran</title>
+    <link>/research-themes/</link>
+    <description>Recent content in Research Themes on Balaraman Ravindran</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    
+	    <atom:link href="/research-themes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Learning &amp; Reinforcement Learning</title>
+      <link>/research-themes/deep-learning-reinforcement-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research-themes/deep-learning-reinforcement-learning/</guid>
+      <description>&lt;p&gt;While the combination of deep learning and reinforcement learning has led to tremendous success, there is not much work tying together reinforcement learning, skill acquisition, memory and attention on a deep neural network substrate. We have had some success in this direction and are continuing to expand the horizon of possibilities. Our work on Fine Grain Action Repetition that allows an agent to learn the right actions, as well as right persistence, gives a way of improving the performance of any deep reinforcement learning algorithm. Recently, it received a mention during a keynote at a top conference as a useful deep RL technique to speed up learning. Our work on Robust Deep Reinforcement Learning has garnered nearly 100 citations since it appeared in 2017.&lt;/p&gt;
+&lt;p&gt;One of the tangential directions of research this has engendered is that of application of deep learning and selective attention in natural language processing. Attention results in a more meaningful representation of text appropriate for several natural language tasks. I am currently exploring the role of reinforcement learning in attention mechanisms for several NLP tasks, such as question answering, dialogue, etc. One such work was recently accepted to EMNLP 2019. The goal is to develop another cognitive module for a truly autonomous agent. We have established one of the most active deep learning groups in India. Our work on joint
+representation learning is widely cited. Our work on Bridge Correlational networks was mentioned in an article on the &lt;a href=&#34;http://futureoflife.org/2015/12/29/the-top-a-i-breakthroughs-of-2015/&#34;&gt;top 15 breakthroughs of AI in 2015 by the Future of Life Institute&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Network Analytics</title>
+      <link>/research-themes/network-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research-themes/network-analytics/</guid>
+      <description>&lt;p&gt;With the advent of easy means of gathering and storing data, we are able to acquire relational knowledge about data. This allows us to model very rich detail, and consequently learning approaches have to evolve to take advantage of this structure.&lt;/p&gt;
+&lt;p&gt;My work in this space falls under two categories - learning about the structure of the relations (or networks), and learning with data enriched by a network structure. My group has developed algorithms for studying several network properties and we have extensively collaborated with other researchers in applying these to novel domains. While the earlier work was somewhat serendipitous in nature, lately, I have been focused on the use of hypergraphs to model multi-way relations and devising approaches for studying properties of these networks. Our work in this space has appeared in top venues like ICDE, IJCAI, AAMAS, SIGMOD, JAIR, WINE, SDM, etc.&lt;/p&gt;
+&lt;p&gt;Our earlier work on the computation of network centrality by suitably defined network games has enabled efficient computations of complex centrality measures on very large graphs. Our group has also published work on distributed implementations of the same on massive graphs and an open source library was recently  eleased under GPL3.&lt;/p&gt;
+&lt;p&gt;Our model of the Indian Railway network using hypergraphs was the first of its kind as is our work on centrality measures for hypergraphs. Among other measures, we have extended notions of Shapley values of network games to the hypergraph setting, and have developed a new notion of modularity for hypergraphs. Our recent work on learning to discover social network structure through graph embeddings and RL is among the first few works to address this problem. This paper was a  best paper runner up at the AAMAS 2020 conference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Collective Learning</title>
+      <link>/research-themes/collective-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research-themes/collective-learning/</guid>
+      <description>&lt;p&gt;I have also been looking at collective learning approaches that work with network enriched data. The goal here is to assign labels to all the nodes in a network in a mutually consistent fashion. Here too, we have proposed an exciting approach to combine multi-relational representation with label inference to develop more robust collective learning approaches. In particular, we extended the use of hypergraphs to the in-network classification setting and obtained very promising results in the classification of multi-relational data. The key contribution here has been to address the class imbalance problem in networked data. While many approaches have been proposed to address class imbalance, they typically depend on the ability to arbitrarily resample the data, which is not easily possible in networked data. We have proposed several solutions that address the class imbalance in different network settings, and are continuing to explore this direction to develop more generic and robust approaches. Our work on addressing the class imbalance in a residue-labelling task in a protein network has achieved state-of-the-art performance comfortably beating the best results reported previously.&lt;/p&gt;
+&lt;p&gt;Recently, we have been exploring the question of network representation learning as part of a large effort funded by Intel. We have made several interesting observations about the performance of various node embedding algorithms, used reinforcement learning to learn graph embeddings to enable network structure discovery, and used network structure to further improve language representation. While these are work still under review, our earlier works have appeared in IJCAI, ISMB, Bioinformatics, ECAI, PLOS One, ASONAM, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>/research-themes/natural-language-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research-themes/natural-language-processing/</guid>
+      <description>&lt;p&gt;My research in this space has been largely driven by the desire to understand the role of structure in language. Some of my group’s early work delved on the  nderstanding of the rhetorical structure of a document. At various points, we have studied the discourse structure, latent structure, grammatical structure, etc. I have made contributions in various aspects of summarization, language generation, question answering, text mining and conversational agents.&lt;/p&gt;
+&lt;p&gt;With the advent of deep learning, I have explored learning representations of text, individually and jointly with other modalities. Of particular interest in  ecent times, has been the role of attention in understanding and processing text. Our work has appeared in EMNLP, ACL, NAACL, IJCNLP, ICDM, Neural Computation, NeurIPS, EDM, ICWSM, etc. Our group has reached a level of maturity that we have established strong ongoing collaborations with various groups around the globe – Ohio State University; Purdue University; Harvard University; Univ. of Texas, Dallas; Northeastern University; University of Washington, Seattle; Northwestern University; CMU; Jackson Laboratories, Maine; University of Birmingham, UK; MILA, Montreal; Stanford University; etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MDP Homomorphisms</title>
+      <link>/research-themes/mdp-homomorphisms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research-themes/mdp-homomorphisms/</guid>
+      <description>&lt;p&gt;A continually learning agent should be capable of acquiring skills to solve problems and to be able to transfer these skills to similar domains. This begs the question – how does one characterize similar domains? During my graduate research, I introduced the notion of Markov Decision Process (MDP) homomorphisms in 2001 to the reinforcement learning (RL) community as a measure of similarity between MDPs. This has proved to be an important contribution in RL, receiving cumulatively more than 300 citations (2001- 2019) and inspired the adoption of homomorphisms, and the related framework of bisimulations, as a basic
+framework for spatial abstraction in reinforcement learning. MDP homomorphisms provided a flexible language to talk about different notions of
+symmetries, projections, and task-specific representation in a unified fashion. This has led to multiple efforts from different groups on the use of homomorphisms for transfer, for multi-task learning, for deriving abstract representations, action abstraction in planning and for learning hierarchies.&lt;/p&gt;
+&lt;p&gt;My group continues to work on MDP homomorphisms and abstraction in general and our works are reported in the top venues in the area. Our work in 2008 establishing the complexity of finding MDP symmetries is a small but important piece in determining relative complexity classes of problems. Before our work, it was widely believed that the problem was more complex than finding automorphisms of undirected graphs (GI), but we showed that it is in GI. This has far-reaching practical implications and finds a mention in the Wikipedia page on complexity classes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

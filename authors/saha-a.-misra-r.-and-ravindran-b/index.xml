@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saha, A., Misra, R., and **Ravindran, B.** on Balaraman Ravindran</title>
+    <link>/authors/saha-a.-misra-r.-and-ravindran-b./</link>
+    <description>Recent content in Saha, A., Misra, R., and **Ravindran, B.** on Balaraman Ravindran</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    
+	    <atom:link href="/authors/saha-a.-misra-r.-and-ravindran-b./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scalable Bayesian Matrix Factorization</title>
+      <link>/publication/scalable-bayesian-matrix-factorization/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/scalable-bayesian-matrix-factorization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Bayesian Matrix Factorization</title>
+      <link>/unpublished-manuscripts/scalable-bayesian-matrix-factorization/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/unpublished-manuscripts/scalable-bayesian-matrix-factorization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reinforcement_learning on Balaraman Ravindran</title>
+    <link>/tags/reinforcement_learning/</link>
+    <description>Recent content in reinforcement_learning on Balaraman Ravindran</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/reinforcement_learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Causal Contextual Bandits with Targeted Interventions</title>
+      <link>/publication/causal-contextual-bandits-with-targeted-interventions/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/causal-contextual-bandits-with-targeted-interventions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Active Learning Framework for Efficient Robust Policy Search</title>
+      <link>/publication/an-active-learning-framework-for-efficient-robust-policy-search/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/an-active-learning-framework-for-efficient-robust-policy-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smooth Imitation Learning via Smooth Costs and Smooth Policies</title>
+      <link>/publication/smooth-imitation-learning-via-smooth-costs-and-smooth-policies/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/smooth-imitation-learning-via-smooth-costs-and-smooth-policies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Approach to Security Games with Signaling</title>
+      <link>/publication/evolutionary-approach-to-security-games-with-signaling/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/evolutionary-approach-to-security-games-with-signaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Multi-Product Inventory Control with Lead Time Constraints using Reinforcement Learning</title>
+      <link>/publication/scalable-multi-product-inventory-control-with-lead-time-constraints-using-reinforcement-learning/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/scalable-multi-product-inventory-control-with-lead-time-constraints-using-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Enhanced Advising Model in Teacher-Student Framework using State Categorization</title>
+      <link>/publication/an-enhanced-advising-model-in-teacher-student-framework-using-state-categorization/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/an-enhanced-advising-model-in-teacher-student-framework-using-state-categorization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relational Boosted Bandits</title>
+      <link>/publication/relational-boosted-bandits/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/relational-boosted-bandits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RePReL: Integrating Relational Planning and Reinforcement Learning for Effective Abstraction</title>
+      <link>/publication/reprel_-integrating-relational-planning-and-reinforcement-learning-for-effective-abstraction/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/reprel_-integrating-relational-planning-and-reinforcement-learning-for-effective-abstraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning for Unified Allocation and Patrolling in Signaling Games with Uncertainty</title>
+      <link>/publication/reinforcement-learning-for-unified-allocation-and-patrolling-in-signaling-games-with-uncertainty/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/reinforcement-learning-for-unified-allocation-and-patrolling-in-signaling-games-with-uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample Efficient Ensemble Reinforcement Learning</title>
+      <link>/publication/sample-efficient-ensemble-reinforcement-learning/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/sample-efficient-ensemble-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MADRaS : Multi Agent Driving Simulator</title>
+      <link>/publication/madras-_-multi-agent-driving-simulator/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/madras-_-multi-agent-driving-simulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ExTra: Transfer-guided Exploration</title>
+      <link>/publication/extra_-transfer-guided-exploration/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/extra_-transfer-guided-exploration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence maximization in unknown social networks: Learning Policies for Effective Graph Sampling</title>
+      <link>/publication/influence-maximization-in-unknown-social-networks_-learning-policies-for-effective-graph-sampling/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/influence-maximization-in-unknown-social-networks_-learning-policies-for-effective-graph-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Option Encoder: A Framework for Discovering a Policy Basis in Reinforcement Learning</title>
+      <link>/publication/option-encoder_-a-framework-for-discovering-a-policy-basis-in-reinforcement-learning/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/option-encoder_-a-framework-for-discovering-a-policy-basis-in-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning for Improving Object Detection.</title>
+      <link>/publication/reinforcement-learning-for-improving-object-detection./</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/reinforcement-learning-for-improving-object-detection./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advice Replay Approach for Richer Knowledge Transfer in Teacher Student Framework</title>
+      <link>/publication/advice-replay-approach-for-richer-knowledge-transfer-in-teacher-student-framework/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/advice-replay-approach-for-richer-knowledge-transfer-in-teacher-student-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Ask Again: Refine Network for Automatic Question Generation</title>
+      <link>/publication/lets-ask-again_-refine-network-for-automatic-question-generation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lets-ask-again_-refine-network-for-automatic-question-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MaMiC : Macro and Micro Curriculum for Robotic Reinforcement Learning</title>
+      <link>/publication/mamic-_-macro-and-micro-curriculum-for-robotic-reinforcement-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mamic-_-macro-and-micro-curriculum-for-robotic-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Successor Options: An Option Discovery Framework for Reinforcement Learning</title>
+      <link>/publication/successor-options_-an-option-discovery-framework-for-reinforcement-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/successor-options_-an-option-discovery-framework-for-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient-UCBV: An Almost Optimal Algorithm using Variance Estimates</title>
+      <link>/publication/efficient-ucbv_-an-almost-optimal-algorithm-using-variance-estimates/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/efficient-ucbv_-an-almost-optimal-algorithm-using-variance-estimates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Multi-Task by Active Sampling</title>
+      <link>/publication/learning-to-multi-task-by-active-sampling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/learning-to-multi-task-by-active-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to prevent Monocular SLAM failure using Reinforcement Learning</title>
+      <link>/publication/learning-to-prevent-monocular-slam-failure-using-reinforcement-learning/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/learning-to-prevent-monocular-slam-failure-using-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overtaking Maneuvers in Simulated Highway Driving using Deep Reinforcement Learning</title>
+      <link>/publication/overtaking-maneuvers-in-simulated-highway-driving-using-deep-reinforcement-learning/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/overtaking-maneuvers-in-simulated-highway-driving-using-deep-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RAIL: Risk-averse Imitation Learning</title>
+      <link>/publication/rail_-risk-averse-imitation-learning/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rail_-risk-averse-imitation-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking and Stabilization of Mechanical Systems using Reinforcement Learning</title>
+      <link>/publication/tracking-and-stabilization-of-mechanical-systems-using-reinforcement-learning/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tracking-and-stabilization-of-mechanical-systems-using-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Linear Stochastic Bandits to Extend Traditional Offline Designed Experiments to Online Settings</title>
+      <link>/publication/using-linear-stochastic-bandits-to-extend-traditional-offline-designed-experiments-to-online-settings/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/using-linear-stochastic-bandits-to-extend-traditional-offline-designed-experiments-to-online-settings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attend, Adapt, and Transfer: Attentive Deep Architecture for Adaptive Transfer from Multiple Sources in the Same Domain</title>
+      <link>/publication/attend-adapt-and-transfer_-attentive-deep-architecture-for-adaptive-transfer-from-multiple-sources-in-the-same-domain/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/attend-adapt-and-transfer_-attentive-deep-architecture-for-adaptive-transfer-from-multiple-sources-in-the-same-domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data driven strategies for Active Monocular SLAM using Inverse Reinforcement Learning</title>
+      <link>/publication/data-driven-strategies-for-active-monocular-slam-using-inverse-reinforcement-learning/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/data-driven-strategies-for-active-monocular-slam-using-inverse-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Action Repetition For Deep Reinforcement Learning</title>
+      <link>/publication/dynamic-action-repetition-for-deep-reinforcement-learning/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dynamic-action-repetition-for-deep-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EPOpt: Learning Robust Neural Network Policies using Model Ensembles</title>
+      <link>/publication/epopt_-learning-robust-neural-network-policies-using-model-ensembles/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/epopt_-learning-robust-neural-network-policies-using-model-ensembles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Repeat: Fine Grained Action Repetition for Deep Reinforcement Learning</title>
+      <link>/publication/learning-to-repeat_-fine-grained-action-repetition-for-deep-reinforcement-learning/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/learning-to-repeat_-fine-grained-action-repetition-for-deep-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thresholding Bandits with Augmented UCB</title>
+      <link>/publication/thresholding-bandits-with-augmented-ucb/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/thresholding-bandits-with-augmented-ucb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Multi-Bug Path Planning Algorithm for Robot Navigation in Known Environments</title>
+      <link>/publication/a-new-multi-bug-path-planning-algorithm-for-robot-navigation-in-known-environments/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/a-new-multi-bug-path-planning-algorithm-for-robot-navigation-in-known-environments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Network Model of Basal Ganglia for Understanding the Roles of Dopamine and Serotonin in Reward-Punishment-Risk based Decision Making</title>
+      <link>/publication/a-network-model-of-basal-ganglia-for-understanding-the-roles-of-dopamine-and-serotonin-in-reward-punishment-risk-based-decision-making/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/a-network-model-of-basal-ganglia-for-understanding-the-roles-of-dopamine-and-serotonin-in-reward-punishment-risk-based-decision-making/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Reinforcement Learning Approach to Online Learning of Decision Trees</title>
+      <link>/publication/a-reinforcement-learning-approach-to-online-learning-of-decision-trees/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/a-reinforcement-learning-approach-to-online-learning-of-decision-trees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying the Basal Ganglia Network Model Markers for Medication-induced Impulsivity in Parkinson&#39;s Disease patients</title>
+      <link>/publication/identifying-the-basal-ganglia-network-model-markers-for-medication-induced-impulsivity-in-parkinsons-disease-patients/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/identifying-the-basal-ganglia-network-model-markers-for-medication-induced-impulsivity-in-parkinsons-disease-patients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Extended Reinforcement Learning Model of Basal Ganglia to Understand the Contributions of Serotonin and Dopamine in Risk-based Decision Making, Reward Prediction, and Punishment Learning</title>
+      <link>/publication/an-extended-reinforcement-learning-model-of-basal-ganglia-to-understand-the-contributions-of-serotonin-and-dopamine-in-risk-based-decision-making-reward-prediction-and-punishment-learning/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/an-extended-reinforcement-learning-model-of-basal-ganglia-to-understand-the-contributions-of-serotonin-and-dopamine-in-risk-based-decision-making-reward-prediction-and-punishment-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iBayes: A Thompson Sampling Approach to Reinforcement Learning with Instructions</title>
+      <link>/publication/ibayes_-a-thompson-sampling-approach-to-reinforcement-learning-with-instructions/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ibayes_-a-thompson-sampling-approach-to-reinforcement-learning-with-instructions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RRTPI: Policy Iteration on Continuous Domains using Rapidly-exploring Random Trees</title>
+      <link>/publication/rrtpi_-policy-iteration-on-continuous-domains-using-rapidly-exploring-random-trees/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rrtpi_-policy-iteration-on-continuous-domains-using-rapidly-exploring-random-trees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relativized hierarchical decomposition of Markov decision processes</title>
+      <link>/publication/relativized-hierarchical-decomposition-of-markov-decision-processes/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/relativized-hierarchical-decomposition-of-markov-decision-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstraction in Reinforcement Learning in Terms of Metastability</title>
+      <link>/publication/abstraction-in-reinforcement-learning-in-terms-of-metastability/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/abstraction-in-reinforcement-learning-in-terms-of-metastability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Oscillatory neural network model for birdsong learning and generation: Implications for the role of Dopamine in Song Learning</title>
+      <link>/publication/an-oscillatory-neural-network-model-for-birdsong-learning-and-generation_-implications-for-the-role-of-dopamine-in-song-learning/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/an-oscillatory-neural-network-model-for-birdsong-learning-and-generation_-implications-for-the-role-of-dopamine-in-song-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Continuous Homomorphisms for Transfer</title>
+      <link>/publication/discovering-continuous-homomorphisms-for-transfer/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/discovering-continuous-homomorphisms-for-transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaze Allocation Analysis for a Visually Guided Manipulation Task</title>
+      <link>/publication/gaze-allocation-analysis-for-a-visually-guided-manipulation-task/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/gaze-allocation-analysis-for-a-visually-guided-manipulation-task/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instructing a Reinforcement Learner</title>
+      <link>/publication/instructing-a-reinforcement-learner/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/instructing-a-reinforcement-learner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Human Instructions and Reinforcement Learners : An SRL Approach</title>
+      <link>/publication/integrating-human-instructions-and-reinforcement-learners-_-an-srl-approach/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/integrating-human-instructions-and-reinforcement-learners-_-an-srl-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning in a Small World</title>
+      <link>/publication/learning-in-a-small-world/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/learning-in-a-small-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the role of Serotonin in Basal Ganglia through a unified model</title>
+      <link>/publication/understanding-the-role-of-serotonin-in-basal-ganglia-through-a-unified-model/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/understanding-the-role-of-serotonin-in-basal-ganglia-through-a-unified-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where Do I Look Now? Gaze Allocation During Visually Guided Manipulation</title>
+      <link>/publication/where-do-i-look-now_-gaze-allocation-during-visually-guided-manipulation/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/where-do-i-look-now_-gaze-allocation-during-visually-guided-manipulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Rewards: Learning with Richer Supervision</title>
+      <link>/publication/beyond-rewards_-learning-with-richer-supervision/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/beyond-rewards_-learning-with-richer-supervision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fractional Moments on Bandit Problems</title>
+      <link>/publication/fractional-moments-on-bandit-problems/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/fractional-moments-on-bandit-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling Basal Ganglia for Understanding Parkinsonian Reaching Movements</title>
+      <link>/publication/modelling-basal-ganglia-for-understanding-parkinsonian-reaching-movements/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/modelling-basal-ganglia-for-understanding-parkinsonian-reaching-movements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Options with Exceptions</title>
+      <link>/publication/options-with-exceptions/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/options-with-exceptions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Oscillatory Neural Network Model for Birdsong Learning and Generation</title>
+      <link>/publication/an-oscillatory-neural-network-model-for-birdsong-learning-and-generation/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/an-oscillatory-neural-network-model-for-birdsong-learning-and-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer learning across heterogeneous robots with action sequence mapping</title>
+      <link>/publication/transfer-learning-across-heterogeneous-robots-with-action-sequence-mapping/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/transfer-learning-across-heterogeneous-robots-with-action-sequence-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MDP based Active Localization for Multiple Robots</title>
+      <link>/publication/mdp-based-active-localization-for-multiple-robots/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mdp-based-active-localization-for-multiple-robots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized Intelligent Tutoring System Using Reinforcement Learning</title>
+      <link>/publication/personalized-intelligent-tutoring-system-using-reinforcement-learning/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/personalized-intelligent-tutoring-system-using-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Role of Basal Ganglia in Performing Simple Reaching Movements: A Computational Model</title>
+      <link>/publication/the-role-of-basal-ganglia-in-performing-simple-reaching-movements_-a-computational-model/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/the-role-of-basal-ganglia-in-performing-simple-reaching-movements_-a-computational-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Hardness of Finding Symmetries in Markov Decision Processes</title>
+      <link>/publication/on-the-hardness-of-finding-symmetries-in-markov-decision-processes/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/on-the-hardness-of-finding-symmetries-in-markov-decision-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized Web-page Rendering System</title>
+      <link>/publication/personalized-web-page-rendering-system/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/personalized-web-page-rendering-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning with Differently-abled Robots</title>
+      <link>/publication/transfer-learning-with-differently-abled-robots/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/transfer-learning-with-differently-abled-robots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deictic Option Schemas</title>
+      <link>/publication/deictic-option-schemas/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/deictic-option-schemas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficiently Exploiting Symmetries in Real Time Dynamic Programming</title>
+      <link>/publication/efficiently-exploiting-symmetries-in-real-time-dynamic-programming/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/efficiently-exploiting-symmetries-in-real-time-dynamic-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent Tutoring System using Reinforcement Learning to Teach Autistic Students</title>
+      <link>/publication/intelligent-tutoring-system-using-reinforcement-learning-to-teach-autistic-students/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/intelligent-tutoring-system-using-reinforcement-learning-to-teach-autistic-students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn to Teach Autistic Children</title>
+      <link>/publication/learn-to-teach-autistic-children/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/learn-to-teach-autistic-children/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Placement and Routing for 3D-FPGAs using Reinforcement Learning and Support Vector Machines</title>
+      <link>/publication/placement-and-routing-for-3d-fpgas-using-reinforcement-learning-and-support-vector-machines/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/placement-and-routing-for-3d-fpgas-using-reinforcement-learning-and-support-vector-machines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximate Homomorphisms: A Framework for Non-exact Minimization in Markov Decision Processes</title>
+      <link>/publication/approximate-homomorphisms_-a-framework-for-non-exact-minimization-in-markov-decision-processes/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/approximate-homomorphisms_-a-framework-for-non-exact-minimization-in-markov-decision-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relativized Options: Choosing the Right Transformation</title>
+      <link>/publication/relativized-options_-choosing-the-right-transformation/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/relativized-options_-choosing-the-right-transformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMDP Homomorphisms: An Algebraic Approach to Abstraction in Semi Markov Decision Processes</title>
+      <link>/publication/smdp-homomorphisms_-an-algebraic-approach-to-abstraction-in-semi-markov-decision-processes/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/smdp-homomorphisms_-an-algebraic-approach-to-abstraction-in-semi-markov-decision-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Minimization in Hierarchical Reinforcement Learning</title>
+      <link>/publication/model-minimization-in-hierarchical-reinforcement-learning/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/model-minimization-in-hierarchical-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Switching among Temporally Abstract Actions</title>
+      <link>/publication/improved-switching-among-temporally-abstract-actions/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/improved-switching-among-temporally-abstract-actions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Optimal Control of MDPs</title>
+      <link>/publication/hierarchical-optimal-control-of-mdps/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hierarchical-optimal-control-of-mdps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C3: Reinforcement Learning</title>
+      <link>/publication/c3_-reinforcement-learning/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/c3_-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tutorial Survey Of Reinforcement Learning</title>
+      <link>/publication/a-tutorial-survey-of-reinforcement-learning/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/a-tutorial-survey-of-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep_learning on Balaraman Ravindran</title>
+    <link>/tags/deep_learning/</link>
+    <description>Recent content in deep_learning on Balaraman Ravindran</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/deep_learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scaling Graph Propagation Kernels for Predictive Learning</title>
+      <link>/publication/scaling-graph-propagation-kernels-for-predictive-learning/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/scaling-graph-propagation-kernels-for-predictive-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single Shot Corrective CNN for Anatomically Correct 3D Hand Pose Estimation</title>
+      <link>/publication/single-shot-corrective-cnn-for-anatomically-correct-3d-hand-pose-estimation/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/single-shot-corrective-cnn-for-anatomically-correct-3d-hand-pose-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Convolutions on Graphs</title>
+      <link>/publication/understanding-convolutions-on-graphs/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/understanding-convolutions-on-graphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Supervised Deep Learning for Multiplex Networks</title>
+      <link>/publication/semi-supervised-deep-learning-for-multiplex-networks/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/semi-supervised-deep-learning-for-multiplex-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corrective Filter Based on Kinematics of Human Hand for Pose Estimation</title>
+      <link>/publication/corrective-filter-based-on-kinematics-of-human-hand-for-pose-estimation/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/corrective-filter-based-on-kinematics-of-human-hand-for-pose-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Joint Training Framework for Open-World Knowledge Graph Embeddings</title>
+      <link>/publication/a-joint-training-framework-for-open-world-knowledge-graph-embeddings/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/a-joint-training-framework-for-open-world-knowledge-graph-embeddings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GrabQC: Graph based Query Contextualization for automated ICD coding</title>
+      <link>/publication/grabqc_-graph-based-query-contextualization-for-automated-icd-coding/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/grabqc_-graph-based-query-contextualization-for-automated-icd-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metric Learning for comparison of HMMs using Graph Neural Networks </title>
+      <link>/publication/metric-learning-for-comparison-of-hmms-using-graph-neural-networks-/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/metric-learning-for-comparison-of-hmms-using-graph-neural-networks-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DyVEDeep: Dynamic Variable Effort Deep Neural Networks</title>
+      <link>/publication/dyvedeep_-dynamic-variable-effort-deep-neural-networks/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dyvedeep_-dynamic-variable-effort-deep-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EMPIR: Ensembles of Mixed Precision Deep Networks for Increased Robustness Against Adversarial Attacks</title>
+      <link>/publication/empir_-ensembles-of-mixed-precision-deep-networks-for-increased-robustness-against-adversarial-attacks/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/empir_-ensembles-of-mixed-precision-deep-networks-for-increased-robustness-against-adversarial-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Incorporating Structural Information to improve Dialogue Response Generation</title>
+      <link>/publication/on-incorporating-structural-information-to-improve-dialogue-response-generation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/on-incorporating-structural-information-to-improve-dialogue-response-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Accurate Vehicle Behaviour Classification With Multi-Relational Graph Convolutional Networks.</title>
+      <link>/publication/towards-accurate-vehicle-behaviour-classification-with-multi-relational-graph-convolutional-networks./</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/towards-accurate-vehicle-behaviour-classification-with-multi-relational-graph-convolutional-networks./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Transparent and Explainable Attention Models</title>
+      <link>/publication/towards-transparent-and-explainable-attention-models/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/towards-transparent-and-explainable-attention-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Dynamic Scenes using Graph Convolution Networks.</title>
+      <link>/publication/understanding-dynamic-scenes-using-graph-convolution-networks./</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/understanding-dynamic-scenes-using-graph-convolution-networks./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pack and Detect: Fast Object Detection in Videos Using Region-of-Interest Packing</title>
+      <link>/publication/pack-and-detect-fast-object-detection-in-videos-using-region-of-interest-packing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pack-and-detect-fast-object-detection-in-videos-using-region-of-interest-packing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studying the Plasticity in Deep Convolutional Neural Networks using Random Pruning</title>
+      <link>/publication/studying-the-plasticity-in-deep-convolutional-neural-networks-using-random-pruning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/studying-the-plasticity-in-deep-convolutional-neural-networks-using-random-pruning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks</title>
+      <link>/publication/recovering-from-random-pruning_-on-the-plasticity-of-deep-convolutional-neural-networks/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/recovering-from-random-pruning_-on-the-plasticity-of-deep-convolutional-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training a Deep Learning Architecture for Vehicle Detection Using Limited Heterogeneous Traffic Data</title>
+      <link>/publication/training-a-deep-learning-architecture-for-vehicle-detection-using-limited-heterogeneous-traffic-data/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/training-a-deep-learning-architecture-for-vehicle-detection-using-limited-heterogeneous-traffic-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversity driven attention model for query-based abstractive summarization</title>
+      <link>/publication/diversity-driven-attention-model-for-query-based-abstractive-summarization/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/diversity-driven-attention-model-for-query-based-abstractive-summarization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridge Correlational Neural Networks for Multilingual Multimodal Representation Learning</title>
+      <link>/publication/bridge-correlational-neural-networks-for-multilingual-multimodal-representation-learning/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bridge-correlational-neural-networks-for-multilingual-multimodal-representation-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlational Neural Networks</title>
+      <link>/publication/correlational-neural-networks/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/correlational-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trust and distrust across coalitions: shapley value based centrality measures for signed networks</title>
+      <link>/publication/trust-and-distrust-across-coalitions-shapley-value-based-centrality-measures-for-signed-networks/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/trust-and-distrust-across-coalitions-shapley-value-based-centrality-measures-for-signed-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Multiple Views to Single View : A Neural Network Approach</title>
+      <link>/publication/from-multiple-views-to-single-view-_-a-neural-network-approach/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/from-multiple-views-to-single-view-_-a-neural-network-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Autoencoder Approach to Learning Bilingual Word Representations</title>
+      <link>/publication/an-autoencoder-approach-to-learning-bilingual-word-representations/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/an-autoencoder-approach-to-learning-bilingual-word-representations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilingual Deep Learning</title>
+      <link>/publication/multilingual-deep-learning/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/multilingual-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

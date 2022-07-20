@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Balaraman Ravindran</title>
+    <link>/</link>
+    <description>Recent content on Balaraman Ravindran</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patents</title>
+      <link>/patents/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/patents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unpublished Manuscripts</title>
+      <link>/unpublished-manuscripts/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/unpublished-manuscripts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Research Interests&lt;/strong&gt;: Reinforcement Learning, Network Analytics, Deep Learning&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Abstracts</title>
+      <link>/abstracts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/abstracts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classroom courses</title>
+      <link>/classroom-courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/classroom-courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Committees Served On</title>
+      <link>/committees-served/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/committees-served/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complete Profile</title>
+      <link>/know-more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/know-more/</guid>
+      <description>&lt;p&gt;Professor B. Ravindran heads the &lt;a href=&#34;https://rbcdsai.iitm.ac.in&#34;&gt;Robert Bosch Centre for Data Science &amp;amp; Artificial Intelligence&lt;/a&gt; at IIT Madras, the leading interdisciplinary AI research centre in India. He is the Mindtree Faculty Fellow and Professor in the Department of Computer Science and Engineering at IIT Madras. He is the No.1 Deep Reinforcement Learning Expert, and among top 3 Machine Learning Experts in India. He has been elected as ACM Distinguished Member (2021) for his significant contributions to computing. He has been recognized, in 2020, as a Senior member of AAAI (Association for Advancement of AI) for his long-standing contributions to AI. He is also the Co-director of the Prathap Subrahmanyam Centre for Digital Intelligence, Secure Hardware and Architecture (PSC-DISHA) and the Reconfigurable and Intelligent Systems Engineering (RISE) group at IIT Madras.&lt;/p&gt;
+&lt;h3 id=&#34;industry-collaboration&#34;&gt;Industry Collaboration&lt;/h3&gt;
+&lt;p&gt;He has been closely collaborating with various industrial research labs, such as Google Research, Intel Research, Ericsson R&amp;amp;D, TCS, Robert Bosch, KLA Tencor, Applied Materials, GE, Adobe Research, IBM India Research Labs, Yahoo! Labs and General Motors, working on applications of AI techniques to hard real-world problems. He received Yahoo! Faculty research gifts in 2009 and 2014 to work on mining real-world text data and unrestricted research gifts from KLA Tencor in 2014, 2015 and 2017. He also serves on the advisory boards of several startups in the AI/data analytics space. He has also been quoted in top publications such as MIT Technology Review, Harvard Business Review, and Forbes India.  He has also received multiple faculty awards from Yahoo! Labs, Amazon Research, Verisk Analytics, Intel Research, Google, Adobe Research and KLA Tencor.&lt;/p&gt;
+&lt;h3 id=&#34;academic-profile&#34;&gt;Academic Profile&lt;/h3&gt;
+&lt;p&gt;He received his PhD from the University of Massachusetts, Amherst and his Master’s in research degree from Indian Institute of Science, Bangalore. He has more than two decades of research experience in AI and ML, specifically, Reinforcement Learning. He has held visiting positions at the Indian Institute of Science, Bangalore, India, University of Technology, Sydney, Australia and is presently a visiting researcher at Google research. Currently, his research interests are centred on learning from and through interactions and span the areas of geometric deep learning and reinforcement learning.&lt;/p&gt;
+&lt;p&gt;He is one of the founding executive committee members of the India chapter of ACM SIGKDD and is currently serving as the president of the chapter. He has published nearly &lt;a href=&#34;/publication/&#34;&gt;100 papers in journals and conferences&lt;/a&gt;, including premier venues such as ICML, AAAI, IJCAI,  ICDM, ICLR, NIPS, UAI, ISMB, and AAMAS. He has also co-authored the chapter on reinforcement learning in the Handbook of Neural Computation published by Oxford University Press. He has been on the &lt;a href=&#34;/services/&#34;&gt;program committees of several premier conferences&lt;/a&gt; as well as served as the program co-chair of PAKDD in 2010 and the General co-chair of the 2015 Big Data Summit at Sydney. He is currently serving on the editorial boards of Journal of AI Research, PLOS One, and Frontiers in Big Data &amp;amp; AI. His video lectures on NPTEL are widely viewed and have received accolades for their depth and delivery. His work with students has won multiple best paper awards, the most recent being a &lt;a href=&#34;https://doi.org/10.1007/978-3-030-75762-5_19&#34;&gt;best application paper in PAKDD-2021&lt;/a&gt;. In addition to his academic accomplishments, Prof. Ravindran has a &lt;a href=&#34;/digital-footprint/&#34;&gt;noteworthy digital footprint&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;He serves on (or has served on) the Board of Studies at Thiagarajar College of Engineering, Madurai; PSG College of Technology, Coimbatore; Sri Jayachamarajendra College of Engineering (SJCE), Mysore; Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya, Kancheepuram; Sastra University, Tanjore; Central University of Tamil Nadu, Thiruvarur and Sri Kanchi Kamakoti University, Kancheepuram. He is a member of the Research Advisory Council, IIIT Sri City. He is advising IIIT Delhi and IISER Bhopal on the design of their undergraduate programs in AI and Data Science. He has also served on the Faculty selection committee for IIT Palakkad, IIT Dharwad, Thiagarajar College of Engineering; LNMIIT, Jaipur, and IIST, Trivandrum.&lt;/p&gt;
+&lt;h3 id=&#34;key-research-highlights&#34;&gt;Key Research Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Prof. Ravindran has contributed significantly to Reinforcement learning (RL) research worldwide and is the leader in the country. His research results are foundational in nature and have made a considerable impact internationally.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;He was elected as ACM Distinguished Member (2021) for his remarkable contributions to computing. He has been recognized, in 2020, as a Senior member of AAAI (Association for Advancement of AI) for his long-standing contributions to AI.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;He introduced the notion of Markov Decision Process (MDP) homomorphisms in 2001 to the reinforcement learning (RL) community as a measure of similarity between MDPs. This has proved to be an important foundational contribution in RL, receiving cumulatively more than 300 citations (2001-2016) and inspired the wide adoption of homomorphisms as a basic framework for spatial abstraction in reinforcement learning.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In 2008, his group established the complexity of finding MDP symmetries. Previously the problem was believed to be more complex than finding automorphisms of undirected graphs (GI), but they showed that it is in GI. This has far reaching practical implications and finds a mention in the Wikipedia page on complexity classes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;His tutorial survey on reinforcement learning written in 1994 was one of the first such articles in the area and has been included in the Handbook of Neural Computation published by the Oxford University Press in 1996.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;He has established one of the most active deep learning groups in India. Their work on joint representation learning is widely cited. Their work on Bridge Correlational networks was mentioned in an article on the &lt;a href=&#34;http://futureoflife.org/2015/12/29/the-top-a-i-breakthroughs-of-2015/&#34;&gt;top 15 breakthroughs of AI in 2015&lt;/a&gt; by the Future of Life institute.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Current Students</title>
+      <link>/students/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Footprint</title>
+      <link>/digital-footprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/digital-footprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Former Students</title>
+      <link>/students-past/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/students-past/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online NPTEL Courses</title>
+      <link>/nptel-courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/nptel-courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Themes</title>
+      <link>/research-themes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/</guid>
+      <description>&lt;p&gt;Jump to: &lt;a href=&#34;#editorial&#34;&gt;Editorial Memberships&lt;/a&gt;, &lt;a href=&#34;#committees&#34;&gt;Committees Served On&lt;/a&gt;, &lt;a href=&#34;#conferences&#34;&gt;Conferences Organized&lt;/a&gt;, &lt;a href=&#34;#workshops&#34;&gt;Workshops Organized&lt;/a&gt;, &lt;a href=&#34;#reviewing&#34;&gt;Reviewing Services&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

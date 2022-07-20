@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>network-analytics on Balaraman Ravindran</title>
+    <link>/tags/network-analytics/</link>
+    <description>Recent content in network-analytics on Balaraman Ravindran</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    
+	    <atom:link href="/tags/network-analytics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Social Network Analysis</title>
+      <link>/classroom-courses/social-network-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/classroom-courses/social-network-analysis/</guid>
+      <description>&lt;p&gt;Analyzing patterns of interactions among/within communities has been in the domain of sociologists for long. With the mind numbing growth of digitally recorded interactions, via e-mail, web 2.0, even citations, etc., both the amount of readily accessible data and powerful tools to process them have seen a quantum leap. The objective of the course is to serve as an introduction to the various sources of network data, the different kinds of networks that one can construct from them, the various properties of these networks that people study-motivate this from a sociological point of view, the computation of these properties-from a graph algorithm point of view, look at growth models of network and methods to study the evolution of such networks. The course will have a heavy graph algorithm bias, and will also require some linear algebra and probability theory concepts. I intend to run this course as a part seminar course. Since 2014 I run this as a self-study course for the undergrads and as a directed study for research scholars.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

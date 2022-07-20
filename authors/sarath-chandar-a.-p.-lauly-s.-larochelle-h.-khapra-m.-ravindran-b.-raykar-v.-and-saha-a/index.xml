@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarath Chandar, A. P., Lauly, S., Larochelle, H., Khapra, M., **Ravindran, B.**, Raykar, V., and Saha, A. on Balaraman Ravindran</title>
+    <link>/authors/sarath-chandar-a.-p.-lauly-s.-larochelle-h.-khapra-m.-ravindran-b.-raykar-v.-and-saha-a./</link>
+    <description>Recent content in Sarath Chandar, A. P., Lauly, S., Larochelle, H., Khapra, M., **Ravindran, B.**, Raykar, V., and Saha, A. on Balaraman Ravindran</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    
+	    <atom:link href="/authors/sarath-chandar-a.-p.-lauly-s.-larochelle-h.-khapra-m.-ravindran-b.-raykar-v.-and-saha-a./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Autoencoder Approach to Learning Bilingual Word Representations</title>
+      <link>/publication/an-autoencoder-approach-to-learning-bilingual-word-representations/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/an-autoencoder-approach-to-learning-bilingual-word-representations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

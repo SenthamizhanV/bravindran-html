@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keerthi, S. S. and **Ravindran, B.** on Balaraman Ravindran</title>
+    <link>/authors/keerthi-s.-s.-and-ravindran-b./</link>
+    <description>Recent content in Keerthi, S. S. and **Ravindran, B.** on Balaraman Ravindran</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    
+	    <atom:link href="/authors/keerthi-s.-s.-and-ravindran-b./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C3: Reinforcement Learning</title>
+      <link>/publication/c3_-reinforcement-learning/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/c3_-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tutorial Survey Of Reinforcement Learning</title>
+      <link>/publication/a-tutorial-survey-of-reinforcement-learning/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/a-tutorial-survey-of-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

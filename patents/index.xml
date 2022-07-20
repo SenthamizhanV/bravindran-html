@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patents on Balaraman Ravindran</title>
+    <link>/patents/</link>
+    <description>Recent content in Patents on Balaraman Ravindran</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/patents/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Method and System for Forecasting Sales Based on N-Gram Model</title>
+      <link>/patents/method-and-system-for-forecasting-sales-based-on-n-gram-model/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/patents/method-and-system-for-forecasting-sales-based-on-n-gram-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods and Systems for Multiple Time-Series Data Forecasting</title>
+      <link>/patents/methods-and-systems-for-multiple-time-series-data-forecasting/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/patents/methods-and-systems-for-multiple-time-series-data-forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method for improving clinical documentation using knowledge graphs</title>
+      <link>/patents/method-for-improving-clinical-documentation-using-knowledge-graphs/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/patents/method-for-improving-clinical-documentation-using-knowledge-graphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method for resampling electronic health records for automatic classication and data element extraction</title>
+      <link>/patents/method-for-resampling-electronic-health-records-for-automatic-classication-and-data-element-extraction/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/patents/method-for-resampling-electronic-health-records-for-automatic-classication-and-data-element-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Motif Based Approach To Analyze Devices Reconnection Patterns</title>
+      <link>/patents/temporal-motif-based-approach-to-analyze-devices-reconnection-patterns/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/patents/temporal-motif-based-approach-to-analyze-devices-reconnection-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method for finding communities in large networks</title>
+      <link>/patents/method-for-finding-communities-in-large-networks/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/patents/method-for-finding-communities-in-large-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting reactions to short-text posts</title>
+      <link>/patents/predicting-reactions-to-short-text-posts/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/patents/predicting-reactions-to-short-text-posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

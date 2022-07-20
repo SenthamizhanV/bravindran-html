@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reinforcement-learning on Balaraman Ravindran</title>
+    <link>/tags/reinforcement-learning/</link>
+    <description>Recent content in reinforcement-learning on Balaraman Ravindran</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    
+	    <atom:link href="/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to Robotics</title>
+      <link>/classroom-courses/intro-to-robotics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/classroom-courses/intro-to-robotics/</guid>
+      <description>&lt;p&gt;This is a core course for the minor on robotics. I co-teach this with Prof. Asokan, ED, and Prof. Krishna Vasudevan, EE.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>/classroom-courses/reinforcement-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/classroom-courses/reinforcement-learning/</guid>
+      <description>&lt;p&gt;This is a graduate level elective that introduces students to the basics of the reinforcement learning paradigm. The focus of the course is more on the pragmatic rather than on the technical details. The bulk of the credit is earned through programming assignments. The course is typically offered in the Aug-Dec semester.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

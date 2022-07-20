@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep-learning on Balaraman Ravindran</title>
+    <link>/tags/deep-learning/</link>
+    <description>Recent content in deep-learning on Balaraman Ravindran</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    
+	    <atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Mining</title>
+      <link>/classroom-courses/data-mining/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/classroom-courses/data-mining/</guid>
+      <description>&lt;p&gt;This is a popular graduate elective, that used to give an overview of both Data warehousing and Data Mining. I used to teach this jointly with &lt;a href=&#34;http://www.cse.iitm.ac.in/~psk&#34;&gt;Prof. P. Sreenivasa Kumar&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Recently, I have modified this course to focus more on dealing with massive amounts of data. Please see the Moodle page for more details. In 2014 I offered this jointly with &lt;a href=&#34;http://www.cse.iitm.ac.in/~sayan&#34;&gt;Dr. Sayan Ranu&lt;/a&gt;. This course is typically offered in the Jan-May semester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Machine Learning</title>
+      <link>/classroom-courses/intro-to-machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/classroom-courses/intro-to-machine-learning/</guid>
+      <description>&lt;p&gt;This course covers the basics of statistical machine learning, with an emphasis on programming exercises and projects. This is usually taught in the Aug-Dec semeter by Dr. Sutanu Chakraborti. I taught this course for the first time in Aug-Dec 2013. Please see the Moodle page for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Robotics</title>
+      <link>/classroom-courses/intro-to-robotics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/classroom-courses/intro-to-robotics/</guid>
+      <description>&lt;p&gt;This is a core course for the minor on robotics. I co-teach this with Prof. Asokan, ED, and Prof. Krishna Vasudevan, EE.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>/classroom-courses/natural-language-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/classroom-courses/natural-language-processing/</guid>
+      <description>&lt;p&gt;This course gives an introduction to statistical approaches to natural language processing. I teach this jointly with &lt;a href=&#34;http://www.cse.iitm.ac.in/~sutanuc&#34;&gt;Dr. Sutanu Chakraborti&lt;/a&gt;. We offered this course in Aug-Dec 2009 for the first time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Reasoning in AI</title>
+      <link>/classroom-courses/probabilistic-reasoning-in-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/classroom-courses/probabilistic-reasoning-in-ai/</guid>
+      <description>&lt;p&gt;This is a self-study elective course that I also offer as a contact course for research scholars on demand. I put together a program of weekly reading and written assignments, and a final presentation. The topics covered are a mixture of Bayesian networks, graphical models, approximate inferencing, sequential decision making and reasoning under uncertainty. Recently, this course has come to focus more on approximate inferencing in graphical models, and their applications. In 2014 I offered this as a taught course, with focus on more recent developments in the field. Please see the Moodle page for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

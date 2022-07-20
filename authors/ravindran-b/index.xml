@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>**Ravindran, B.** on Balaraman Ravindran</title>
+    <link>/authors/ravindran-b./</link>
+    <description>Recent content in **Ravindran, B.** on Balaraman Ravindran</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    
+	    <atom:link href="/authors/ravindran-b./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Relativized hierarchical decomposition of Markov decision processes</title>
+      <link>/publication/relativized-hierarchical-decomposition-of-markov-decision-processes/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/relativized-hierarchical-decomposition-of-markov-decision-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Algebraic Approach to Abstraction in Reinforcement Learning</title>
+      <link>/publication/an-algebraic-approach-to-abstraction-in-reinforcement-learning/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/an-algebraic-approach-to-abstraction-in-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solution of Delayed Reinforcement Learning Problems having Continuous Action Spaces</title>
+      <link>/publication/solution-of-delayed-reinforcement-learning-problems-having-continuous-action-spaces/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/solution-of-delayed-reinforcement-learning-problems-having-continuous-action-spaces/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>text_mining on Balaraman Ravindran</title>
+    <link>/tags/text_mining/</link>
+    <description>Recent content in text_mining on Balaraman Ravindran</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/text_mining/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Detection of Real-Time Intentions from Micro-blogs</title>
+      <link>/publication/detection-of-real-time-intentions-from-micro-blogs/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/detection-of-real-time-intentions-from-micro-blogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining Review Coverage by Extracting Topic Sentences Using a Graph-based Clustering Approach</title>
+      <link>/publication/determining-review-coverage-by-extracting-topic-sentences-using-a-graph-based-clustering-approach/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/determining-review-coverage-by-extracting-topic-sentences-using-a-graph-based-clustering-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Analyzing Micro-blogs for Detection and Classification of Real-Time Intentions</title>
+      <link>/publication/towards-analyzing-micro-blogs-for-detection-and-classification-of-real-time-intentions/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/towards-analyzing-micro-blogs-for-detection-and-classification-of-real-time-intentions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Rhetorical Roles for Segmentation and Summarization of a legal judgment</title>
+      <link>/publication/identification-of-rhetorical-roles-for-segmentation-and-summarization-of-a-legal-judgment/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/identification-of-rhetorical-roles-for-segmentation-and-summarization-of-a-legal-judgment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi Grain Sentiment Analysis using Collective Classification</title>
+      <link>/publication/multi-grain-sentiment-analysis-using-collective-classification/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/multi-grain-sentiment-analysis-using-collective-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Legal Information Retrieval Using Ontological Framework</title>
+      <link>/publication/improving-legal-information-retrieval-using-ontological-framework/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/improving-legal-information-retrieval-using-ontological-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text mining of Internet content: The bridge connecting product research with customers in the digital era</title>
+      <link>/publication/text-mining-of-internet-content_-the-bridge-connecting-product-research-with-customers-in-the-digital-era/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/text-mining-of-internet-content_-the-bridge-connecting-product-research-with-customers-in-the-digital-era/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Identification of Rhetorical Roles using Conditional Random Fields for Legal Document Summarization </title>
+      <link>/publication/automatic-identification-of-rhetorical-roles-using-conditional-random-fields-for-legal-document-summarization-/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/automatic-identification-of-rhetorical-roles-using-conditional-random-fields-for-legal-document-summarization-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-SOFT-Clustering: An Information Theoretic approach to obtain overlapping clusters from co-occurrence data</title>
+      <link>/publication/co-soft-clustering_-an-information-theoretic-approach-to-obtain-overlapping-clusters-from-co-occurrence-data/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/co-soft-clustering_-an-information-theoretic-approach-to-obtain-overlapping-clusters-from-co-occurrence-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Dirichlet Allocation and Singular Value Decomposition based Multi-Document Summarization</title>
+      <link>/publication/latent-dirichlet-allocation-and-singular-value-decomposition-based-multi-document-summarization/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/latent-dirichlet-allocation-and-singular-value-decomposition-based-multi-document-summarization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Dirichlet Allocation Based Multi-Document Summarization</title>
+      <link>/publication/latent-dirichlet-allocation-based-multi-document-summarization/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/latent-dirichlet-allocation-based-multi-document-summarization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lexical Chains as Document Features</title>
+      <link>/publication/lexical-chains-as-document-features/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lexical-chains-as-document-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Document Clustering using Lexical Chains</title>
+      <link>/publication/document-clustering-using-lexical-chains/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/document-clustering-using-lexical-chains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Legal Ontology for Query Enhancement</title>
+      <link>/publication/legal-ontology-for-query-enhancement/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/legal-ontology-for-query-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Part Of Speech Tagging and Chunking with HMM and CRF</title>
+      <link>/publication/part-of-speech-tagging-and-chunking-with-hmm-and-crf/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/part-of-speech-tagging-and-chunking-with-hmm-and-crf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Approach to Multi-Document Summarization for generating a Tiled Summary</title>
+      <link>/publication/a-probabilistic-approach-to-multi-document-summarization-for-generating-a-tiled-summary/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/a-probabilistic-approach-to-multi-document-summarization-for-generating-a-tiled-summary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Review of Automatic Summarization</title>
+      <link>/publication/a-review-of-automatic-summarization/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/a-review-of-automatic-summarization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

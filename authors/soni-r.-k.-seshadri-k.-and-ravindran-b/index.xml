@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soni, R. K., Seshadri, K., and **Ravindran, B.** on Balaraman Ravindran</title>
+    <link>/authors/soni-r.-k.-seshadri-k.-and-ravindran-b./</link>
+    <description>Recent content in Soni, R. K., Seshadri, K., and **Ravindran, B.** on Balaraman Ravindran</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    
+	    <atom:link href="/authors/soni-r.-k.-seshadri-k.-and-ravindran-b./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Metric Learning for comparison of HMMs using Graph Neural Networks </title>
+      <link>/publication/metric-learning-for-comparison-of-hmms-using-graph-neural-networks-/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/metric-learning-for-comparison-of-hmms-using-graph-neural-networks-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

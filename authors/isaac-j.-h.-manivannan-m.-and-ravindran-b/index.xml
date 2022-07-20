@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isaac, J., H., Manivannan, M., and **Ravindran, B.** on Balaraman Ravindran</title>
+    <link>/authors/isaac-j.-h.-manivannan-m.-and-ravindran-b./</link>
+    <description>Recent content in Isaac, J., H., Manivannan, M., and **Ravindran, B.** on Balaraman Ravindran</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    
+	    <atom:link href="/authors/isaac-j.-h.-manivannan-m.-and-ravindran-b./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Single Shot Corrective CNN for Anatomically Correct 3D Hand Pose Estimation</title>
+      <link>/publication/single-shot-corrective-cnn-for-anatomically-correct-3d-hand-pose-estimation/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/single-shot-corrective-cnn-for-anatomically-correct-3d-hand-pose-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corrective Filter Based on Kinematics of Human Hand for Pose Estimation</title>
+      <link>/publication/corrective-filter-based-on-kinematics-of-human-hand-for-pose-estimation/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/corrective-filter-based-on-kinematics-of-human-hand-for-pose-estimation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maya, M., Chakravarthy, V. S., and **Ravindran, B.** on Balaraman Ravindran</title>
+    <link>/authors/maya-m.-chakravarthy-v.-s.-and-ravindran-b./</link>
+    <description>Recent content in Maya, M., Chakravarthy, V. S., and **Ravindran, B.** on Balaraman Ravindran</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    
+	    <atom:link href="/authors/maya-m.-chakravarthy-v.-s.-and-ravindran-b./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Oscillatory neural network model for birdsong learning and generation: Implications for the role of Dopamine in Song Learning</title>
+      <link>/publication/an-oscillatory-neural-network-model-for-birdsong-learning-and-generation_-implications-for-the-role-of-dopamine-in-song-learning/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/an-oscillatory-neural-network-model-for-birdsong-learning-and-generation_-implications-for-the-role-of-dopamine-in-song-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Oscillatory Neural Network Model for Birdsong Learning and Generation</title>
+      <link>/publication/an-oscillatory-neural-network-model-for-birdsong-learning-and-generation/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/an-oscillatory-neural-network-model-for-birdsong-learning-and-generation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

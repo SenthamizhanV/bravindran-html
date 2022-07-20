@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>image_processing on Balaraman Ravindran</title>
+    <link>/tags/image_processing/</link>
+    <description>Recent content in image_processing on Balaraman Ravindran</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/image_processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recovering Free Space from a Single Two-Point Perspective Image for Mobile Robot Navigation for Indoor Applications</title>
+      <link>/publication/recovering-free-space-from-a-single-two-point-perspective-image-for-mobile-robot-navigation-for-indoor-applications/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/recovering-free-space-from-a-single-two-point-perspective-image-for-mobile-robot-navigation-for-indoor-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Activity Recognition for Natural Human Robot Interaction</title>
+      <link>/publication/activity-recognition-for-natural-human-robot-interaction/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/activity-recognition-for-natural-human-robot-interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Modeling using Tree Structured Conditional Random Fields</title>
+      <link>/publication/image-modeling-using-tree-structured-conditional-random-fields/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/image-modeling-using-tree-structured-conditional-random-fields/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hierarchical approach to Landform Classification of Satellite Images using a Fusion Strategy</title>
+      <link>/publication/a-hierarchical-approach-to-landform-classification-of-satellite-images-using-a-fusion-strategy/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/a-hierarchical-approach-to-landform-classification-of-satellite-images-using-a-fusion-strategy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

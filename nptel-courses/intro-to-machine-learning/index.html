@@ -1,0 +1,1402 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academia 4.3.1">
+  <meta name="generator" content="Hugo 0.83.1" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Balaraman Ravindran">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="With the increased availability of data from varied sources there has been increasing attention paid to the various data driven disciplines such as analytics and machine learning. In this course we intend to introduce some of the basic concepts of machine learning from a mathematically well motivated perspective. We will cover the different learning paradigms and some of the more popular algorithms and architectures used in each of these paradigms.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/nptel-courses/intro-to-machine-learning/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#fc5c5c">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Open+Sans|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academia.min.69157c3c7ea2ae2de53f4eb9a633671b.css">
+
+  
+
+  
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon.png">
+
+  <link rel="canonical" href="/nptel-courses/intro-to-machine-learning/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Balaraman Ravindran">
+  <meta property="og:url" content="/nptel-courses/intro-to-machine-learning/">
+  <meta property="og:title" content="Introduction to Machine Learning | Balaraman Ravindran">
+  <meta property="og:description" content="With the increased availability of data from varied sources there has been increasing attention paid to the various data driven disciplines such as analytics and machine learning. In this course we intend to introduce some of the basic concepts of machine learning from a mathematically well motivated perspective. We will cover the different learning paradigms and some of the more popular algorithms and architectures used in each of these paradigms."><meta property="og:image" content="/img/icon.png">
+  <meta property="twitter:image" content="/img/icon.png"><meta property="og:locale" content="en-us">
+  
+  
+  
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>Introduction to Machine Learning | Balaraman Ravindran</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Balaraman Ravindran</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/about/"><span>About Me</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          
+          <a href="#" class="nav-link  dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Academia</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/research-themes/"><span>Research Themes</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/services/"><span>Services</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          
+          <a href="#" class="nav-link  dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Publications</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/publication/"><span>Peer-Reviewed</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/patents/"><span>Patents</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/unpublished-manuscripts/"><span>Unpublished Manuscripts</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/digital-footprint/"><span>Digital Footprint</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/nptel-courses/"><span>Courses</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/students/"><span>Students</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+
+        
+
+        
+
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+  <div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#week-1---introduction-to-machine-learning--probability-theory">Week 1 - Introduction to Machine Learning &amp; Probability Theory</a></li>
+    <li><a href="#week-2---linear-algebra-statistical-decision-theory-linear-regression--dimensionality-reduction">Week 2 - Linear Algebra, Statistical Decision Theory, Linear Regression &amp; Dimensionality Reduction</a></li>
+    <li><a href="#week-3---classification-linear-models">Week 3 - Classification: Linear Models</a></li>
+    <li><a href="#week-4---optimisation--classification-separating-hyperplane-approaches">Week 4 - Optimisation &amp; Classification: Separating Hyperplane Approaches</a></li>
+    <li><a href="#week-5---artificial-neural-networks--parameter-estimation">Week 5 - Artificial Neural Networks &amp; Parameter Estimation</a></li>
+    <li><a href="#week-6---decision-trees">Week 6 - Decision Trees</a></li>
+    <li><a href="#week-7---evaluation-measures--hypothesis-testing">Week 7 - Evaluation Measures &amp; Hypothesis Testing</a></li>
+    <li><a href="#week-8---ensemble-methods">Week 8 - Ensemble Methods</a></li>
+    <li><a href="#week-9---graphical-models">Week 9 - Graphical Models</a></li>
+    <li><a href="#week-10---clustering">Week 10 - Clustering</a></li>
+    <li><a href="#week-11---gaussian-mixture-models-spectral-clustering--learning-theory">Week 11 - Gaussian Mixture Models, Spectral Clustering &amp; Learning Theory</a></li>
+    <li><a href="#week-12---frequent-itemset-mining--reinforcement-learning">Week 12 - Frequent Itemset Mining &amp; Reinforcement Learning</a></li>
+  </ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article" itemscope itemtype="http://schema.org/Article">
+
+        <div class="col-lg-12">
+          <h1 itemprop="name">Introduction to Machine Learning</h1>
+
+          <div class="article-style" itemprop="articleBody">
+            <p>With the increased availability of data from varied sources there has been increasing attention paid to the various data driven disciplines such as analytics and machine learning. In this course we intend to introduce some of the basic concepts of machine learning from a mathematically well motivated perspective. We will cover the different learning paradigms and some of the more popular algorithms and architectures used in each of these paradigms.</p>
+<p>The tables below enlists the courses materials for Week 1 to Week 12. Each topic has both YouTube link and VideoKen link.</p>
+<h2 id="week-1---introduction-to-machine-learning--probability-theory">Week 1 - Introduction to Machine Learning &amp; Probability Theory</h2>
+<span class="fragment " >
+  
+<table style="width: 100%">
+<col width=30%>
+<col width=30%>
+<col width=10%>
+<tr><div style="height:0px">
+        <td><li>A brief introduction to machine learning</li></td>
+        <td><a href="https://youtu.be/fC7V8QsPBec">
+        <img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td>
+        <td><a href="https://videoken.com/embed/fC7V8QsPBec">
+        <img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td></div></tr>
+<tr><div style="height:0px">
+        <td><li>Supervised learning</li></td>
+        <td><a href="https://youtu.be/OTAR0kT1swg">
+        <img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td>
+        <td><a href="https://videoken.com/embed/OTAR0kT1swg">
+        <img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td></div></tr>
+<tr><div style="height:0px">
+        <td><li>Unsupervised learning</li></td>
+        <td><a href="https://youtu.be/HTSCbxSxs-g">
+        <img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td>
+        <td><a href="https://videoken.com/embed/HTSCbxSxs-g">
+        <img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td></div></tr>
+<tr><div style="height:0px">
+        <td><li>Reinforcement learning</li></td>
+        <td><a href="https://youtu.be/9vMpHk44XXo">
+        <img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td>
+        <td><a href="https://videoken.com/embed/9vMpHk44XXo">
+        <img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td></div></tr>
+<tr><div style="height:0px">
+        <td><li>Probability tutorial - 1</li></td>
+        <td><a href="https://youtu.be/6KBUU2Aa6lw">
+        <img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td>
+        <td><a href="https://videoken.com/embed/6KBUU2Aa6lw">
+        <img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td></div></tr>
+<tr><div style="height:0px">
+        <td><li>Probability tutorial - 2</li></td>
+        <td><a href="https://youtu.be/ymBN8m1SL2s">
+        <img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td>
+        <td><a href="https://videoken.com/embed/ymBN8m1SL2s">
+        <img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td></div></tr>        
+<tr><td><li> <a href = "/courses/Introduction to Machine Learning_files/Assignment1.pdf">Assignment 1</a></li></td></tr>
+<tr><td><li><a href = "/courses/Introduction to Machine Learning_files/Solution1.pdf">Solution 1</a></li> </td></tr>
+</table>
+
+</span>
+<h2 id="week-2---linear-algebra-statistical-decision-theory-linear-regression--dimensionality-reduction">Week 2 - Linear Algebra, Statistical Decision Theory, Linear Regression &amp; Dimensionality Reduction</h2>
+<span class="fragment " >
+  
+<table style="width: 100%">
+<col width=30%>
+<col width=30%>
+<col width=10%>
+        <tr><div style="height:0px">
+        <td><li>Linear algebra tutorial - 1</li></td>
+        <td><a href="https://youtu.be/7Py7x8pds24">
+        <img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td>
+        <td><a href="https://videoken.com/embed/7Py7x8pds24">
+        <img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td></div></tr>
+        <tr><div style="height:0px">
+        <td><li>Linear algebra tutorial - 2</li></td>
+        <td><a href="https://youtu.be/AXvGBmPD9q4">
+        <img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td>
+        <td><a href="https://videoken.com/embed/AXvGBmPD9q4">
+        <img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td></div></tr>
+        <tr><div style="height:0px">
+        <td><li>Statistical decision theory - regression</li></td>
+        <td><a href="https://youtu.be/qNMElN-3Wmg">
+        <img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td>
+        <td><a href="https://videoken.com/embed/qNMElN-3Wmg">
+        <img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td></div></tr>
+        <tr><div style="height:0px">
+        <td><li>Statistical decision theory - classification</li></td>
+        <td><a href="https://youtu.be/TUht9K5VXGs">
+        <img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td>
+        <td><a href="https://videoken.com/embed/TUht9K5VXGs">
+        <img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td></div></tr>
+        <tr><div style="height:0px">
+        <td><li>Bias-variance</li></td>
+        <td><a href="https://youtu.be/W21YA1dLb6o">
+        <img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td>
+        <td><a href="https://videoken.com/embed/W21YA1dLb6o">
+        <img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td></div></tr>
+        <tr><div style="height:0px">
+        <td><li>Linear regression</li></td>
+        <td><a href="https://youtu.be/_M7Km1XZERU">
+        <img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td>
+        <td><a href="https://videoken.com/embed/_M7Km1XZERU">
+        <img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td></div></tr>
+        <tr><div style="height:0px">
+        <td><li>Multivariate regression</li></td>
+        <td><a href="https://youtu.be/kETBe_lnfHs">
+        <img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td>
+        <td><a href="https://videoken.com/embed/kETBe_lnfHs">
+        <img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td></div></tr>
+        <tr><div style="height:0px">
+        <td><li>Subset selection - 1</li></td>
+        <td><a href="https://youtu.be/U9bURX-UGVU">
+        <img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td>
+        <td><a href="https://videoken.com/embed/U9bURX-UGVU">
+        <img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td></div></tr>
+        <tr><div style="height:0px">
+        <td><li>Subset selection - 2</li></td>
+        <td><a href="https://youtu.be/gRkBOH7Cftg">
+        <img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td>
+        <td><a href="https://videoken.com/embed/gRkBOH7Cftg">
+        <img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td></div></tr>
+        <tr><div style="height:0px">
+        <td><li>Shrinkage methods</li></td>
+        <td><a href="https://youtu.be/KfuCtcj1qnc">
+        <img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td>
+        <td><a href="https://videoken.com/embed/KfuCtcj1qnc">
+        <img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td></div></tr>
+        <tr><div style="height:0px">
+        <td><li>Principal components regression</li></td>
+        <td><a href="https://youtu.be/FdzK33RymyQ">
+        <img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td>
+        <td><a href="https://videoken.com/embed/FdzK33RymyQ">
+        <img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td></div></tr>
+        <tr><div style="height:0px">
+        <td><li>Partial least squares</li></td>
+        <td><a href="https://youtu.be/7XEV7gqat_8">
+        <img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td>
+        <td><a href="https://videoken.com/embed/7XEV7gqat_8">
+        <img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+        </img></a></td></div></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Assignment2.pdf">Assignment 2</a></li></td></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Solution2.pdf">Solution 2</a></li></td></tr>
+</table>
+
+</span>
+<h2 id="week-3---classification-linear-models">Week 3 - Classification: Linear Models</h2>
+<span class="fragment " >
+  
+<table style="width: 100%">
+<col width=30%>
+<col width=30%>
+<col width=10%>
+<tr><div style="height:0px">
+<td><li>Linear classification</li></td>
+<td><a href="https://youtu.be/cvEpBTmJNuw">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/cvEpBTmJNuw">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Logistic regression</li></td>
+<td><a href="https://youtu.be/g__LURKuIj4">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/g__LURKuIj4">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Linear discriminant analysis - 1</li></td>
+<td><a href="https://youtu.be/UudeDPTtMos">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/UudeDPTtMos">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Linear discriminant analysis - 2</li></td>
+<td><a href="https://youtu.be/2NrWhUResTg">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/2NrWhUResTg">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Linear discriminant analysis - 3</li></td>
+<td><a href="https://youtu.be/E1bHf4BlCBQ">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/E1bHf4BlCBQ">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Weka tutorial</li></td>
+<td><a href="https://youtu.be/0YCu10BwG4s">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/0YCu10BwG4s">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Assignment3.pdf">Assignment 3</a></li></td></tr>
+<tr><td><li>&nbsp;&nbsp; <a href="/courses/Introduction to Machine Learning_files/a3data.zip">Assignment 3 data</a></li></td></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Solution3.pdf">Solution 3</a></li></td></tr>
+</table>
+
+</span>
+<h2 id="week-4---optimisation--classification-separating-hyperplane-approaches">Week 4 - Optimisation &amp; Classification: Separating Hyperplane Approaches</h2>
+<span class="fragment " >
+  
+<table style="width: 100%">
+<col width=30%>
+<col width=30%>
+<col width=10%>
+<tr><div style="height:0px">
+<td><li>Optimisation tutorial</li></td>
+<td><a href="https://youtu.be/EdwAd002lzQ">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/EdwAd002lzQ">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Perceptron learning</li></td>
+<td><a href="https://youtu.be/_VXGGhRprAg">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/_VXGGhRprAg">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>SVM - formulation</li></td>
+<td><a href="https://youtu.be/jkFjfdQ1JDQ">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/jkFjfdQ1JDQ">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>SVM - interpretation & analysis</li></td>
+<td><a href="https://youtu.be/C8CMqfmb7Bs">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/C8CMqfmb7Bs">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>SVMs for linearly non-separable data</li></td>
+<td><a href="https://youtu.be/3-FhNaTkAZo">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/3-FhNaTkAZo">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>SVM kernels</li></td>
+<td><a href="https://youtu.be/-QDguusDi2E">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/-QDguusDi2E">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>SVM hinge loss formulation</li></td>
+<td><a href="https://youtu.be/9dPjKuTYkx4">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/9dPjKuTYkx4">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Assignment4.pdf">Assignment 4</a></li></td></tr>
+<tr><td><li>&nbsp;&nbsp; <a href="/courses/Introduction to Machine Learning_files/a4data.zip">Assignment 4 data</a></li></td></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Solution4.pdf">Solution 4</a></li></td></tr>
+</table>
+
+</span>
+<h2 id="week-5---artificial-neural-networks--parameter-estimation">Week 5 - Artificial Neural Networks &amp; Parameter Estimation</h2>
+<span class="fragment " >
+  
+<table style="width: 100%">
+<col width=30%>
+<col width=30%>
+<col width=10%>
+        <tr><div style="height:0px">
+<td><li>Early artificial neural network models</li></td>
+<td><a href="https://youtu.be/olgnwStG9DE">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/olgnwStG9DE">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Backpropogation - 1</li></td>
+<td><a href="https://youtu.be/fUTwNOvoiyA">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/fUTwNOvoiyA">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Backpropogation - 2</li></td>
+<td><a href="https://youtu.be/93UyKhN2FRM">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/93UyKhN2FRM">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Initialisation, training & validation</li></td>
+<td><a href="https://youtu.be/_eTMnZ1GIUM">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/_eTMnZ1GIUM">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Maximum likelihood estimate</li></td>
+<td><a href="https://youtu.be/ugeG5DuZ3gc">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/ugeG5DuZ3gc">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Priors & MAP estimate</li></td>
+<td><a href="https://youtu.be/qpGo87YV1R0">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/qpGo87YV1R0">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Bayesian parameter estimation</li></td>
+<td><a href="https://youtu.be/5RAJL_YPPQU">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/5RAJL_YPPQU">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Assignment5.pdf">Assignment 5</a></li></td></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Solution5.pdf">Solution 5</a></li></td></tr>
+</table>
+
+</span>
+<h2 id="week-6---decision-trees">Week 6 - Decision Trees</h2>
+<span class="fragment " >
+  
+<table style="width: 100%">
+<col width=30%>
+<col width=30%>
+<col width=10%>
+        <tr><div style="height:0px">
+<td><li>Introduction to decision trees</li></td>
+<td><a href="https://youtu.be/yG1nETGyW2E">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/yG1nETGyW2E">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Regression trees</li></td>
+<td><a href="https://youtu.be/CIYeuKAV-3c">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/CIYeuKAV-3c">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Stopping criteria & pruning</li></td>
+<td><a href="https://youtu.be/zLrNSXJF_As">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/zLrNSXJF_As">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Loss functions for classification</li></td>
+<td><a href="https://youtu.be/KH75AFuq74c">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/KH75AFuq74c">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Categorical attributes</li></td>
+<td><a href="https://youtu.be/8hwRXZiopUM">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/8hwRXZiopUM">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Multiway splits</li></td>
+<td><a href="https://youtu.be/iWU8qZ3gU9Y">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/iWU8qZ3gU9Y">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Missing values, imputation & surrogate splits</li></td>
+<td><a href="https://youtu.be/cbnqYfpukFQ">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/cbnqYfpukFQ">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Instability, smoothness & repeated subtrees</li></td>
+<td><a href="https://youtu.be/MVgo6eU0YCg">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/MVgo6eU0YCg">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Decision trees tutorial</li></td>
+<td><a href="https://youtu.be/2nRayZAt1aA">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/2nRayZAt1aA">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Assignment6.pdf">Assignment 6</a></li></td></tr>
+<tr><td><li>&nbsp;&nbsp; <a href="/courses/Introduction to Machine Learning_files/a6data.zip">Assignment 6 data</a></li></td></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Solution6.pdf">Solution 6</a></li></td></tr>
+</table>
+
+</span>
+<h2 id="week-7---evaluation-measures--hypothesis-testing">Week 7 - Evaluation Measures &amp; Hypothesis Testing</h2>
+<span class="fragment " >
+  
+<table style="width: 100%">
+<col width=30%>
+<col width=30%>
+<col width=10%>
+        <tr><div style="height:0px">
+<td><li>Evaluation measures</li></td>
+<td><a href="https://youtu.be/Du8PsWbX1Y0">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/Du8PsWbX1Y0">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Bootstrapping & cross validation</li></td>
+<td><a href="https://youtu.be/7mhLNwcBWyE">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/7mhLNwcBWyE">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>2 class evaluation measures</li></td>
+<td><a href="https://youtu.be/sosZp0cUsIk">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/sosZp0cUsIk">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>The ROC curve</li></td>
+<td><a href="https://youtu.be/9Iq6pz9XJ7w">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/9Iq6pz9XJ7w">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Minimum description length & exploratory analysis</li></td>
+<td><a href="https://youtu.be/ReJfSYzB_jc">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/ReJfSYzB_jc">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Introduction to hypothesis testing</li></td>
+<td><a href="https://youtu.be/OGLxVh1J-xk">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/OGLxVh1J-xk">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Hypothesis testing: basic concepts</li></td>
+<td><a href="https://youtu.be/XMWZdmNdrdw">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/XMWZdmNdrdw">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Sampling distribution & the Z test</li></td>
+<td><a href="https://youtu.be/PArYoTDMgtM">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/PArYoTDMgtM">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Student's T test</li></td>
+<td><a href="https://youtu.be/c5kR4Vjdl_U">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/c5kR4Vjdl_U">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>The two sample & paired sample T tests</li></td>
+<td><a href="https://youtu.be/RY3Ya5NGCu0">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/RY3Ya5NGCu0">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Confidence intervals</li></td>
+<td><a href="https://youtu.be/3GvtQlShKmI">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/3GvtQlShKmI">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Assignment7.pdf">Assignment 7</a></li></td></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Solution7.pdf">Solution 7</a></li></td></tr>
+</table>
+
+</span>
+<h2 id="week-8---ensemble-methods">Week 8 - Ensemble Methods</h2>
+<span class="fragment " >
+  
+<table style="width: 100%">
+<col width=30%>
+<col width=30%>
+<col width=10%>
+        <tr><div style="height:0px">
+<td><li>Bagging, committee machines & stacking</li></td>
+<td><a href="https://youtu.be/foWzsWFAmas">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/foWzsWFAmas">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Boosting</li></td>
+<td><a href="https://youtu.be/NrdtKndsC1I">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/NrdtKndsC1I">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Gradient boosting</li></td>
+<td><a href="https://youtu.be/Y7_q5hByKuo">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/Y7_q5hByKuo">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Random forest</li></td>
+<td><a href="https://youtu.be/6K48CbOm99Y">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/6K48CbOm99Y">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Assignment8.pdf">Assignment 8</a></li></td></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Solution8.pdf">Solution 8</a></li></td></tr>
+</table>
+
+</span>
+<h2 id="week-9---graphical-models">Week 9 - Graphical Models</h2>
+<span class="fragment " >
+  
+<table style="width: 100%">
+<col width=30%>
+<col width=30%>
+<col width=10%>
+        <tr><div style="height:0px">
+<td><li>Naive Bayes</li></td>
+<td><a href="https://youtu.be/1B_lrrEo5ds">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/1B_lrrEo5ds">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Bayesian networks</li></td>
+<td><a href="https://youtu.be/XBbNUyWAiks">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/XBbNUyWAiks">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Undirected graphical models - introduction</li></td>
+<td><a href="https://youtu.be/3IM-xZ7ZscU">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/3IM-xZ7ZscU">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Undirected graphical models - potential functions</li></td>
+<td><a href="https://youtu.be/m8Ln4rBpfHs">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/m8Ln4rBpfHs">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Hidden Markov models</li></td>
+<td><a href="https://youtu.be/qGtth60V6nM">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/qGtth60V6nM">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Variable elimination</li></td>
+<td><a href="https://youtu.be/gb5CpZOntFI">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/gb5CpZOntFI">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Belief propogation</li></td>
+<td><a href="https://youtu.be/VfBUglMnRUw">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/VfBUglMnRUw">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Assignment9.pdf">Assignment 9</a></li></td></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Solution9.pdf">Solution 9</a></li></td></tr>
+</table>
+
+</span>
+<h2 id="week-10---clustering">Week 10 - Clustering</h2>
+<span class="fragment " >
+  
+<table style="width: 100%">
+<col width=30%>
+<col width=30%>
+<col width=10%>
+        <tr><div style="height:0px">
+<td><li>Partitional clustering</li></td>
+<td><a href="https://youtu.be/zop2zuwF_bc">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/zop2zuwF_bc">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Hierarchical clustering</li></td>
+<td><a href="https://youtu.be/tlIv3IT_hHk">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/tlIv3IT_hHk">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Threshold graphs</li></td>
+<td><a href="https://youtu.be/1SxPbhaK_uc">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/1SxPbhaK_uc">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>The BIRCH algorithm</li></td>
+<td><a href="https://youtu.be/Skn1q837TUM">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/Skn1q837TUM">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>The CURE algorithm</li></td>
+<td><a href="https://youtu.be/CdEatQP0IDg">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/CdEatQP0IDg">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Density based clustering</li></td>
+<td><a href="https://youtu.be/qrmneD5_VrM">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/qrmneD5_VrM">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Assignment10.pdf">Assignment 10</a></li></td></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Solution10.pdf">Solution 10</a></li></td></tr>
+</table>
+
+</span>
+<h2 id="week-11---gaussian-mixture-models-spectral-clustering--learning-theory">Week 11 - Gaussian Mixture Models, Spectral Clustering &amp; Learning Theory</h2>
+<span class="fragment " >
+  
+<table style="width: 100%">
+<col width=30%>
+<col width=30%>
+<col width=10%>
+        <tr><div style="height:0px">
+<td><li>Gaussian mixture models</li></td>
+<td><a href="https://youtu.be/FK9izGvLzU8">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/FK9izGvLzU8">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Expectation maximisation - 1</li></td>
+<td><a href="https://youtu.be/NgWiPBH6jHA">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/NgWiPBH6jHA">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Expectation maximisation - 2</li></td>
+<td><a href="https://youtu.be/Jj7MzS-YwGY">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/Jj7MzS-YwGY">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Spectral clustering</li></td>
+<td><a href="https://youtu.be/AFsKM4spCPk">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/AFsKM4spCPk">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Learning theory</li></td>
+<td><a href="https://youtu.be/urmNFMSUBF8">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/urmNFMSUBF8">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Assignment11.pdf">Assignment 11</a></li></td></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Solution11.pdf">Solution 11</a></li></td></tr>
+</table>
+
+</span>
+<h2 id="week-12---frequent-itemset-mining--reinforcement-learning">Week 12 - Frequent Itemset Mining &amp; Reinforcement Learning</h2>
+<span class="fragment " >
+  
+<table style="width: 100%">
+<col width=30%>
+<col width=30%>
+<col width=10%>
+        <tr><div style="height:0px">
+<td><li>Frequent itemset mining</li></td>
+<td><a href="https://youtu.be/feFSsFu1TCk">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/feFSsFu1TCk">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>The apriori property</li></td>
+<td><a href="https://youtu.be/VI6eGXxsrIk">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/VI6eGXxsrIk">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Introduction to reinforcement learning</li></td>
+<td><a href="https://youtu.be/-U5ezelRSlA">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/-U5ezelRSlA">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>RL framework & TD learning</li></td>
+<td><a href="https://youtu.be/NhAYuEoWZ1w">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/NhAYuEoWZ1w">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Solution methods & applications</li></td>
+<td><a href="https://youtu.be/JbN2R68bZCw">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/JbN2R68bZCw">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><div style="height:0px">
+<td><li>Miscellaneous: Multi-class classification</li></td>
+<td><a href="https://youtu.be/WZQvKgx4BdU">
+<img src="/img/youtube.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td>
+<td><a href="https://videoken.com/embed/WZQvKgx4BdU">
+<img src="/img/videoken.jpg" align="vertical-align" width="25" height="25" border="0">
+</img></a></td></div></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Assignment12.pdf">Assignment 12</a></li></td></tr>
+<tr><td><li>&nbsp&nbsp <a href = "/courses/Introduction to Machine Learning_files/Solution12.pdf">Solution 12</a></li></td></tr>
+</table>
+
+</span>
+
+          </div>
+        </div>
+
+      </article>
+
+    </main>
+  </div>
+</div>
+
+
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/js/academia.min.501b4b95b848b6748bc6614537f484ca.js"></script>
+
+    
+
+
+
+
+
+
+  
+
+  <div class="container">
+    <footer class="site-footer">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-6 mb-4 mb-md-0">
+        <p class="mb-0">
+          Copyright © 2022 &middot; 
+          Balaraman Ravindran
+        </p>
+      </div>
+      <div class="col-md-6 text-right mb-0">
+        <p class="mb-0">
+          Powered by
+          <a href="https://gethugothemes.com" target="_blank" rel="noopener">Gethugothemes</a>
+        </p>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
