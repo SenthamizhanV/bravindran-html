@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abstracts on Balaraman Ravindran</title>
-    <link>/abstracts/</link>
+    <link>https://senthamizhanv.github.io/bravindran-html/abstracts/</link>
     <description>Recent content in Abstracts on Balaraman Ravindran</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     
-	    <atom:link href="/abstracts/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://senthamizhanv.github.io/bravindran-html/abstracts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Paper Abstracts</title>
-      <link>/abstracts/paper_abstracts/</link>
+      <link>https://senthamizhanv.github.io/bravindran-html/abstracts/paper_abstracts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/abstracts/paper_abstracts/</guid>
+      <guid>https://senthamizhanv.github.io/bravindran-html/abstracts/paper_abstracts/</guid>
       <description>
 
 &lt;dl&gt;
@@ -708,10 +708,10 @@ This chapter gives a compact, self-contained tutorial survey of reinforcement le
     
     <item>
       <title>Students&#39; Abstracts</title>
-      <link>/abstracts/student_abstracts/</link>
+      <link>https://senthamizhanv.github.io/bravindran-html/abstracts/student_abstracts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/abstracts/student_abstracts/</guid>
+      <guid>https://senthamizhanv.github.io/bravindran-html/abstracts/student_abstracts/</guid>
       <description>
 
 &lt;dl&gt;
